@@ -1,0 +1,17 @@
+{
+  "name": "taskflow-api",
+  "version": "1.0.0",
+  "description": "Backend CRUD API for managing tasks using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Priyanka",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.2.1"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
